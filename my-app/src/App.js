@@ -23,6 +23,8 @@ function App() {
         <p>It's page 2</p>
         <p>It's about auth code on page 2</p>
         <p>It's page 3</p>
+        <p>It's about success</p>
+        <p>It's about back button</p>
       </header>
     </div>
   );
