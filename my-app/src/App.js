@@ -20,6 +20,8 @@ function App() {
         <p>It's page 1</p>
         <p>It's about phone block</p>
         <p>It's about phone select</p>
+        <p>It's page 2</p>
+        <p>It's about auth code on page 2</p>
       </header>
     </div>
   );
