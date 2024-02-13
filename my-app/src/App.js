@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>It's page 1</p>
+        <p>It's about phone block</p>
       </header>
     </div>
   );
