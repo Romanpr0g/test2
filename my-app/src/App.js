@@ -19,6 +19,7 @@ function App() {
         </a>
         <p>It's page 1</p>
         <p>It's about phone block</p>
+        <p>It's about phone select</p>
       </header>
     </div>
   );
